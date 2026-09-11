@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3908-valid-digit-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
 | ------- |
