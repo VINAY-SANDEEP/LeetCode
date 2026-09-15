@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -470,4 +472,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
