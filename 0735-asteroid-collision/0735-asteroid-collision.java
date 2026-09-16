@@ -2,8 +2,7 @@ class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         int n = asteroids.length;
         Stack<Integer> st = new Stack<Integer>();
-        for(int i=0;i<n;i++)
-        {
+        for(int i=0;i<n;i++){
             if(asteroids[i]>0)
             {
                 st.push(asteroids[i]);
@@ -21,10 +20,8 @@ else if(st.isEmpty() && asteroids[i]<0 || (st.peek()<0 && asteroids[i]<0)|| (st.
                 }
             }
         }
-        int y = st.size();
-        int arr[] = new int[y];
-        int i = y-1;;
-        // Reverse the stack and insert elements into the array
+        int arr[] = new int[st.size()];
+        int i = st.size()-1;
         while (!st.isEmpty()) {
             arr[i--] = st.pop();
         }
