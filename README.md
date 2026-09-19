@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1446-consecutive-characters](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1446-consecutive-characters) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
