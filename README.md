@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -496,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
