@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
 |  |
