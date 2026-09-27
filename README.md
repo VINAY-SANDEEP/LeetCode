@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
