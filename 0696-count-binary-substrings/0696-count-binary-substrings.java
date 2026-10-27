@@ -1,15 +1,19 @@
+
 class Solution {
     public int countBinarySubstrings(String s) {
-         int res = 0, prev = 0, strk = 1;
-
-        for (int i = 1; i < s.length(); i++) {
-            if (s.charAt(i) == s.charAt(i - 1)) strk++;
-            else {
-                prev = strk;
-                strk = 1;
-            }
-            if (strk <= prev) res++;
-        }
-        return res;
+     int c = 0;
+     int curr = 1;
+     int prev = 0;
+     for(int i = 1 ; i < s.length(); i++){
+           if(s.charAt(i)==s.charAt(i-1)){
+               curr++;
+           }else{
+                c+=Math.min(prev,curr);
+               prev = curr;
+               curr = 1;
+           }
+     }
+     c+=Math.min(prev,curr);
+     return c;
     }
 }
