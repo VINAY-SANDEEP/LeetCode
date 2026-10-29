@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
