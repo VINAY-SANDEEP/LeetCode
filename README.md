@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Bucket Sort
 |  |
 | ------- |
