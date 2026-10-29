@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0735-asteroid-collision) |
+| [0845-longest-mountain-in-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0941-valid-mountain-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0696-count-binary-substrings/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
+| [0845-longest-mountain-in-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
