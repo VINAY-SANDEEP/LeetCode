@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3210-find-the-encrypted-string](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3210-find-the-encrypted-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3612-process-string-with-special-operations-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Divide and Conquer
