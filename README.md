@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0735-asteroid-collision) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
