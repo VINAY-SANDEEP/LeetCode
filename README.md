@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
