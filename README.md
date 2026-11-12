@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -570,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
