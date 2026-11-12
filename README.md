@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0088-merge-sorted-array) |
