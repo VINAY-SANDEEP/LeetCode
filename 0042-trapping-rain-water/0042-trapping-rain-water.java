@@ -12,9 +12,7 @@ class Solution {
         right[height.length-i-1]= rightMax;
      }
      for(int i = 0 ;i < height.length ; i++){
-        if(height[i] < left[i] && height[i] < right[i]){
             total+=Math.min(left[i],right[i])-height[i];
-        }
      }
      return total;
     } 
