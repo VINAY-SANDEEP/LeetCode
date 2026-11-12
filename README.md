@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Greedy
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
