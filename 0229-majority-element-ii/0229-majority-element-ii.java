@@ -13,8 +13,8 @@ class Solution {
         // return list;
         int c1 = 0;
         int c2 = 0;
-        int ele1 = 0;
-        int ele2 = 0;
+        int ele1 = Integer.MIN_VALUE;
+int ele2 = Integer.MIN_VALUE;
         for(int i = 0 ; i < nums.length ; i++){
             if(c1==0 && ele2!=nums[i]){
                 ele1=nums[i];
