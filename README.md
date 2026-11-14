@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
