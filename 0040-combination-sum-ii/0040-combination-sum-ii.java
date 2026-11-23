@@ -11,7 +11,7 @@ class Solution {
             return;
         }
         for(int i = start;i < nums.length; i++){
-            if (i > start && nums[i] == nums[i - 1]) {
+            if (i != start && nums[i] == nums[i - 1]) {
                 continue;
             }
             if(nums[i]>target){
