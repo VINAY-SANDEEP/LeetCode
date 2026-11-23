@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
