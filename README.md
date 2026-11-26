@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3360-stone-removal-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3908-valid-digit-number](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3908-valid-digit-number) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0735-asteroid-collision) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3360-stone-removal-game](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Matrix
