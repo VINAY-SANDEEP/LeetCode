@@ -1,13 +1,16 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        return solve(n, 10, true);
-    }
+        boolean aliceTurn = true;
 
-    public boolean solve(int n, int i, boolean aliceTurn) {
-        if (n < i) {
-            return !aliceTurn;
+        for (int i = 10; i >= 1; i--) {
+            if (n < i) {
+                return !aliceTurn;
+            }
+
+            n -= i;
+            aliceTurn = !aliceTurn;
         }
 
-        return solve(n - i, i - 1, !aliceTurn);
+        return !aliceTurn;
     }
 }
